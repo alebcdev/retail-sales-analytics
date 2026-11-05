@@ -200,9 +200,16 @@ Los indicadores principales excluyen las facturas canceladas y las líneas con c
 
 ### 4. Visualización en Power BI
 
-Archivo: [`powerbi/retail_sales_dashboard.pbix`](powerbi/retail_sales_dashboard.pbix)
-
 El dashboard organiza los resultados en cuatro páginas temáticas. Incluye indicadores KPI, gráficos de evolución, rankings, comparaciones y filtros de fecha y país para explorar distintos subconjuntos de datos.
+
+#### Consultar el dashboard
+
+El dashboard completo está disponible en formato PDF para consultar sus cuatro páginas y visualizar los principales indicadores y gráficos del análisis.
+
+- [Ver dashboard completo (PDF)](reports/retail_sales_dashboard.pdf)
+- [Descargar archivo Power BI (PBIX)](powerbi/retail_sales_dashboard.pbix)
+
+El archivo PBIX permite explorar el informe mediante Power BI Desktop. No se publica una versión interactiva de acceso público.
 
 #### 01. Resumen ejecutivo
 
